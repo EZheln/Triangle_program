@@ -3,7 +3,7 @@ a=input ("Input first side of the triangle  ")
 b=input ("Input second side of the triangle  ")
 c=input ("Input third side of the triangle  ")
 
-from Small import triangle1
+from main import triangle1
 
 print(triangle1.def_small_test(a, b, c))
 
