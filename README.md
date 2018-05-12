@@ -1,4 +1,4 @@
-Reuirements:
+Requirements:
 - Windows based OS
 - Python 3x
 - git
@@ -12,7 +12,7 @@ git clone https://github.com/EZheln/Triangle_program.git
 pip install -r requirements.txt
 
 3. Run program:
-python triangle.py
+python triangle2.py
 
 4. Command to run unitests:
 python -m pytest -v unit_tests/test_triangle1.py
